@@ -1,12 +1,12 @@
 # CS50P Introduction to Programming with Python 
 
 ## Table of Contents
-### Week 0 - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-- Indoor Voice
-- Playback Speed
-- Making Faces
-- Einstein
-- Tip Calculator
+### [Week 0](/Week%200) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+- [Indoor Voice](/Week%200/Indoor/)
+- [Playback Speed](/Week%200/Playback/)
+- [Making Faces](/Week%200/Faces/)
+- [Einstein](/Week%200/Einstein/)
+- [Tip Calculator](/Week%200/Tip/)
 
 ### Week 1 - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
 - Deep Thought
