@@ -8,19 +8,19 @@
 - [Einstein](/Week%200/Einstein/)
 - [Tip Calculator](/Week%200/Tip/)
 
-### Week 1 - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-- Deep Thought
-- Home Federal Savings Bank
-- File Extensions
-- Math Interpreter
-- Meal Time
+### [Week 1](/Week%201) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
+- [Deep Thought](/Week%201/deep/)
+- [Home Federal Savings Bank](/Week%201/bank/)
+- [File Extensions](/Week%201/extensions/)
+- [Math Interpreter](/Week%201/interpreter/)
+- [Meal Time](/Week%201/meal/)
 
-### Week 2 - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
-- camelCase
-- Coke Machine
-- Just setting up my twttr
-- Vanity Plates
-- Nutrition Facts
+### [Week 2](/Week%202/) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
+- [camelCase](/Week%202/camel/)
+- [Coke Machine](/Week%202/coke/)
+- [Just setting up my twttr](/Week%202/twttr/)
+- [Vanity Plates](/Week%202/plates/)
+- [Nutrition Facts](/Week%202/nutrition/)
 
 ### Week 3 - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
 - Fuel Gauge
