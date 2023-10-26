@@ -22,19 +22,19 @@
 - [Vanity Plates](/Week%202/plates/)
 - [Nutrition Facts](/Week%202/nutrition/)
 
-### Week 3 - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
-- Fuel Gauge
-- Felipe's Taqueria
-- Grocery List
-- Outdated
+### [Week 3](/Week%203/) - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
+- [Fuel Gauge](/Week%203/fuel/)
+- [Felipe's Taqueria](/Week%203/taqueria/)
+- [Grocery List](/Week%203/grocery/)
+- [Outdated](/Week%203/outdated/)
 
-### Week 4 - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
-- Emojize
-- Frank, Ian and Glen's Letters
-- Adieu, Adieu
-- Guessing Game
-- Little Professor
-- Bitcoin Price Index
+### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
+- [Emojize](/Week%204/emojize/)
+- [Frank, Ian and Glen's Letters](/Week%204/figlet/)
+- [Adieu, Adieu](/Week%204/adieu/)
+- [Guessing Game](/Week%204/game/)
+- [Little Professor](/Week%204/professor/)
+- [Bitcoin Price Index](/Week%204/bitcoin/)
 
 ### Week 5 - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
 - Testing my twttr
