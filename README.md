@@ -36,29 +36,29 @@
 - [Little Professor](/Week%204/professor/)
 - [Bitcoin Price Index](/Week%204/bitcoin/)
 
-### Week 5 - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
-- Testing my twttr
-- Back to the Bank
-- Re-requesting a Vanity Plate
-- Refueling
+### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
+- [Testing my twttr](/Week%205/test_twttr/)
+- [Back to the Bank](/Week%205/test_bank/)
+- [Re-requesting a Vanity Plate](/Week%205/test_plates/)
+- [Refueling](/Week%205/test_fuel/)
 
-### Week 6 - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
-- Lines of Code
-- Pizza Py
-- Scourgify
-- CS50 P-Shirt
+### [Week 6](/Week%206/) - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
+- [Lines of Code](/Week%206/lines/)
+- [Pizza Py](/Week%206/pizza/)
+- [Scourgify](/Week%206/scourgify/)
+- [CS50 P-Shirt](/Week%206/shirt/)
 
-### Week 7 - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
-- NUMB3RS
-- Watch on YouTube
-- Working 9 to 5
-- Regular, um, Expressions
-- Response Validation
+### [Week 7](/Week%207/) - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
+- [NUMB3RS](/Week%207/numb3rs/)
+- [Watch on YouTube](/Week%207/watch/)
+- [Working 9 to 5](/Week%207/working/)
+- [Regular, um, Expressions](/Week%207/um/)
+- [Response Validation](/Week%207/response/)
 
-### Week 8 - [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8)
-- Seasons of Love
-- Cookie Jar
-- CS50 Shirtificate
+### [Week 8](/Week%208/) - [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8)
+- [Seasons of Love](/Week%208/seasons/)
+- [Cookie Jar](/Week%208/jar/)
+- [CS50 Shirtificate](/Week%208/shirtificate/)
 
 ## :warning: Disclaimer
 
