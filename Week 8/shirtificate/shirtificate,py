@@ -1,0 +1,23 @@
+from fpdf import FPDF
+
+class PDF(FPDF):
+    def header(self):
+        self.image("./shirtificate.png", x=10, y=70, w=190) # sourcefile, x-coordinate, y-coordinate, width
+        self.set_font("helvetica", "", 40) # font, attribute, size
+        self.cell(0, 57, "CS50 Shirtificate", align="C")
+        self.ln(10) # make gap between header and body
+
+def main():
+    name = input("What's your name? ")
+    shirt(name)
+
+def shirt(s):
+    pdf = PDF()
+    pdf.add_page("portrait", format="A4")
+    pdf.set_font("helvetica", size=24)
+    pdf.cell(0, 213, f"{s} took CS50", align="C")
+    pdf.set_text_color(255, 255, 255)
+    pdf.output("shirtificate.pdf")
+
+if __name__ == "__main__":
+    main()
